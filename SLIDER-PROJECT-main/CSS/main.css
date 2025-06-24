@@ -1,0 +1,138 @@
+body{
+    background-color: black;
+}
+
+a.text-light{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+nav{
+    border: 1px white solid;
+    border-radius: 40px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    width: 65%;
+    color: rgb(255, 255, 255);
+}
+
+nav.bg-dark{
+    background-color: black;
+}
+a.nav-link{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+button.btn{
+    border-radius: 40px;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    margin-top: 8%;  
+}
+
+h1{
+    font-family: Brush Script MT, Brush Script Std, cursive; 
+    color: rgb(128, 122, 122);
+    margin-top: 3%;
+    font-size: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+button#button{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    border-color: aliceblue 1px solid;
+    margin:6%;
+    font-size: 90%;
+}
+
+img{
+
+    width: 80%;
+    height: 70%;
+    border-radius: 40px;
+    border: 1px solid white;
+    
+}
+
+p{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 150%;
+    padding-bottom: 15%;
+}
+
+H4{
+    margin: 10%;
+    font-family: Brush Script MT, Brush Script  Std, cursive;
+    font-size: 400%;
+}
+
+div#main-5{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+div#main-3{
+    padding-top: -110px;
+    padding-bottom: -110px;
+}
+
+p#me{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 50px;
+}
+
+img.img-pic{
+    width: 60px;
+    height: 80px;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+
+button#btn{
+    margin-top: 10px;
+    
+}
+
+img.img-fluid{
+    width: 50%;
+    height: 80%;
+
+}
+
+h4.text-lighter{
+    top: 300px;
+}
+
+span.text-light{
+    color: aliceblue;
+    font-size: 60px;
+
+}
+
+div#row{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+div.col-lx{
+    border: 1px white solid;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(17, 17, 17);
+    height: 130px;
+    color: rgb(255, 255, 255);
+    margin: 20px ;
+    
+
+
+}
+
+i.bi{
+    top: 50%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
