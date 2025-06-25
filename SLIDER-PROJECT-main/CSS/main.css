@@ -161,16 +161,22 @@ p.mt-lg-5{
  
 p.mt-lg-5 span{
     font-size: 35px; 
-    font-family: Brush Script MT, Brush Script  Std, cursive;
-           
-
+    font-family: Brush Script MT, Brush Script  Std, cursive;   
 }
-div#grid p{
+
+p div#grid{
     position: absolute;
     text-align: start;
     padding-right: 200px;
+    font-family: Brush Script MT, Brush Script  Std, cursive;
 }
 
-div#fag{
-    
+div#grey{
+    border-bottom: 3px white solid;
+    margin-bottom: 100px;
+}
+
+h1.text-grey{
+    font-size: 55px;
+    color: rgb(128, 122, 122);
 }
