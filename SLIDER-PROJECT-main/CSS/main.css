@@ -149,3 +149,28 @@ i.bi{
     background-color: rgb(31, 30, 30);
 }
 
+p.mt-lg-5{
+    position: absolute;
+    margin-right: 530PX;
+    right: 600px;
+    font-size: 20pX;
+    padding-left: 10px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(128, 122, 122);
+}
+ 
+p.mt-lg-5 span{
+    font-size: 35px; 
+    font-family: Brush Script MT, Brush Script  Std, cursive;
+           
+
+}
+div#grid p{
+    position: absolute;
+    text-align: start;
+    padding-right: 200px;
+}
+
+div#fag{
+    
+}
