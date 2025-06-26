@@ -184,17 +184,17 @@ h1.text-grey{
 div.mr-5 p.mt-5{
     font-family: 'Times New Roman', Times, serif;
     color: rgb(128, 122, 122);
-    font-size: 20px;
+    font-size: 15px;
 }
 
 div.mr-5 p.mt-5 span{
     font-family: Brush Script MT, Brush Script  Std, cursive;
     font-size: 35px;
-    
+    text-align-last:center;
 }
 
 div#rain{
-    padding: 180px;  
+    padding: 200px;  
 }
 
 div#eny{
@@ -204,15 +204,15 @@ div#eny{
 
 i#bi{
    position: relative;
-   top: -50px;
+   top: -90px;
 }
 
 p#vol{
     position: relative;
-    top: -40px;
+    top: -90px;
 }
 
 p.mb-5{
     position: relative;
-    top: 20px;
+    top: -30px;
 }
