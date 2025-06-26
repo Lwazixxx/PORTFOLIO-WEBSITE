@@ -180,3 +180,39 @@ h1.text-grey{
     font-size: 55px;
     color: rgb(128, 122, 122);
 }
+
+div.mr-5 p.mt-5{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(128, 122, 122);
+    font-size: 20px;
+}
+
+div.mr-5 p.mt-5 span{
+    font-family: Brush Script MT, Brush Script  Std, cursive;
+    font-size: 35px;
+    
+}
+
+div#rain{
+    padding: 180px;  
+}
+
+div#eny{
+    margin: 5px;
+    padding: 5px;
+}
+
+i#bi{
+   position: relative;
+   top: -50px;
+}
+
+p#vol{
+    position: relative;
+    top: -40px;
+}
+
+p.mb-5{
+    position: relative;
+    top: 20px;
+}
